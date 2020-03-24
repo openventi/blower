@@ -1,8 +1,3 @@
-/*
-    This sketch establishes a TCP connection to a "quote of the day" service.
-    It sends a "hello" message, and then prints received data.
-*/
-
 #include <ESP8266WiFi.h>
 
 #ifndef STASSID
